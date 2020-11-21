@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Robin from India, and I’m a front-end developer having experience in both client and server side of the web application development, I've been working on the frontend since 1 year and like to work on challenging projects to solve a problem to make a impact from my work.
 
 <!--
 **iamrobins/iamrobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
