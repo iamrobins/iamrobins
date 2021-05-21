@@ -1,4 +1,4 @@
-<h1 align="center">:v: Hey There! I'm Robin :v:</h1>
+<h1 align="center">:v: Hey There! I'm Robin 👦</h1>
 
 <!--<div align="center">
 	<img alt="Discord Badge" src="https://img.shields.io/badge/-WeBareBears%7276-orange?style=flat&labelColor=9cf&logo=discord">
@@ -6,14 +6,14 @@
 </div>--->
 
 
-<h2 align="center">:smirk: About Me :smirk:</h2>
+<h2 align="center">☕ About Me ☕</h2>
 
 - 🔭 I’m currently working on: **React, Node.js, MongoDB and Cloud Services like AWS EC2 and S3**
 - 🌱 I’m currently: **trying my hands on Java and its applications**
 - 👯 I’m looking to collaborate on: **Simple Storage Service (S3) with JavaScript or Java**
 - 💬 Ask me about: **Full Stack Web Development**
-- 📫 How to reach me: Drop a mail on robinsinghid@outlook.com or itsrobin4@gmail.com
-- ⚡ Fun fact: I don't use any **Social Media** and Discord is the best.
+- 📫 How to reach me: Drop a mail on robinsinghid@outlook.com or itsrobin4@gmail.com ☕
+- ⚡ Fun fact: I don't use any **Social Media** and Discord <strong>"WeBareBears#7276"</strong> is the best.
 
 <h2 align="center">:star: Languages of Choice :star:</h2>
 
