@@ -1,9 +1,9 @@
 <h1 align="center">:v: Hey There! I'm Robin :v:</h1>
 
-<div align="center">
+<!--<div align="center">
 	<img alt="Discord Badge" src="https://img.shields.io/badge/-WeBareBears%7276-orange?style=flat&labelColor=9cf&logo=discord">
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=iamrobins.profile.id">
-</div>
+</div>--->
 
 
 <h2 align="center">:smirk: About Me :smirk:</h2>
@@ -25,12 +25,3 @@
 <h4>Seconday 🥈</h4>
 <img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img alt="CPP" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  
-
-  
-
-------------------
-<div align="center">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=N"><br> -->
-	<img src="https://github-profile-trophy.vercel.app/?username=iamrobins&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrobins&layout=compact" alt="Robin Status" />
-</div>
