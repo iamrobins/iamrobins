@@ -6,7 +6,7 @@
 </div>--->
 
 
-<h2 align="center">☕ About Me ☕</h2>
+<h2 align="center">⭐ About Me ⭐</h2>
 
 - 🔭 I’m currently working on: **React, Node.js, MongoDB and Cloud Services like AWS EC2 and S3**
 - 🌱 I’m currently: **trying my hands on Java and its applications**
