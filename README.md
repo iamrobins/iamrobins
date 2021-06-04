@@ -24,6 +24,7 @@
 <img alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <h4>Seconday 🥈</h4>
 <img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="CPP" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  
-
-[![Spotify](https://iamrobins.vercel.app/api/spotify)](https:/open.spotify.com/user/rvfyglefdsi9wvmfs0qv7pv43)
+<img alt="CPP" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
+	
+### Spotify Playing 🎧
+[<img src="https://iamrobins.vercel.app/api/spotify" alt="Robin Spotify Playing" width="350" />](https:/open.spotify.com/user/rvfyglefdsi9wvmfs0qv7pv43)
