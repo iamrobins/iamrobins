@@ -1,7 +1,7 @@
 <h1>:v: Hey There! I'm Robin</h1>
 
 <div>
-	<p>I'm a Full Stack Developer with more interest in Backend Developement primarily Real Time Communication Systems.</p>
+	<p>I'm a Full Stack Developer with more interest in Backend Developement.</p>
 	<p>I code in these.</p>
 	<img alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 	<img alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
