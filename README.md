@@ -6,7 +6,6 @@
 	<img alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 	<img alt="TypeScript" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
         <img alt="Python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-	<img alt="Java" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </div>
 	
 ### Spotify Playing 🎧
