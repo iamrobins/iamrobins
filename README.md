@@ -11,4 +11,4 @@
 </div>
 	
 ### Spotify Playing 🎧
-<!-- [<img src="https://iamrobins.vercel.app/api/spotify" alt="Robin Spotify Playing" width="350" />](https:/open.spotify.com/user/rvfyglefdsi9wvmfs0qv7pv43) -->
+[<img src="https://iamrobins.vercel.app/api/spotify" alt="Robin Spotify Playing" width="350" />](https:/open.spotify.com/user/rvfyglefdsi9wvmfs0qv7pv43)
