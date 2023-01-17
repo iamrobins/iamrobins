@@ -11,3 +11,6 @@
 	
 ### Spotify Playing 🎧
 [<img src="https://iamrobins.vercel.app/api/spotify" alt="Robin Spotify Playing" width="350" />](https:/open.spotify.com/user/rvfyglefdsi9wvmfs0qv7pv43)
+
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamrobins?theme=dark)
